@@ -6,7 +6,6 @@ Mathematics for Machine Learning Specialization coursework and projects
 
 🔢 **Imperial College London × Coursera** | Coursework & Projects Repository
 
-> Bridging the gap between school-level mathematics and the math behind Machine Learning, Data Science, and AI.
 
 ---
 
