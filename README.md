@@ -14,7 +14,7 @@ Mathematics for Machine Learning Specialization coursework and projects
 
 | # | Course | Status | Key Insight |
 |---|--------|--------|-------------|
-| 1 | Mathematics for Machine Learning: Linear Algebra | ✅ Done | [verify](https://www.coursera.org/learn/linear-algebra-machine-learning) |
+| 1 | Mathematics for Machine Learning: Linear Algebra | 🔄️ 99% | - |
 | 2 | Mathematics for Machine Learning: Multivariate Calculus | 🔄 Not Started | — |
 | 3 | Mathematics for Machine Learning: PCA | 🔄 Not Started | — |
 
