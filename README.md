@@ -37,10 +37,4 @@ Mathematics for Machine Learning Specialization coursework and projects
 
 
 
-## 🔗 Specialization Link
-
-[Mathematics for Machine Learning – Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
-
----
-
 *Offered by Imperial College London*
